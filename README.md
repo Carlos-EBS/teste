@@ -10,3 +10,4 @@
 ## FIM DOS TESTES
 
 # os testes continuam...
+ #USANDO GIT PULL E GIT FETCH COM GIT DIFF
